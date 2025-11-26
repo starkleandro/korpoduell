@@ -1,2 +1,2 @@
 # korpoduell
-A competitive mobile quiz with persistant leaderboards built for university students 
+A competitive mobile quiz game with real-time duels, accounts, and persistent progression.
