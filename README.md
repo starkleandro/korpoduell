@@ -38,3 +38,39 @@ A competitive mobile quiz game with real-time duels, accounts, and persistent pr
 ## 🧩 Architecture Overview
 
 Korpoduell uses a hybrid architecture combining REST and WebSockets:
+
+- REST is used for authentication, account data, and statistics  
+- WebSockets handle real-time matchmaking, game events, and score synchronization  
+- The backend is hosted on Render with scalable infrastructure  
+
+---
+
+## ⬇️ Download (Test Version)
+
+**iOS (TestFlight):**  
+*link coming soon*
+
+**Android (Google Play Internal Test):**  
+*link coming soon*
+
+---
+
+## 🧑‍💻 About the Developer
+
+Korpoduell is developed by **Leandro Stark**, a fullstack engineer focused on real-time mobile applications and clean user experiences.
+
+Feel free to reach out for collaboration, feedback, or questions.
+
+---
+
+## 🗣 Feedback
+
+Bug reports, ideas, or suggestions are highly appreciated.  
+You can send feedback via email or open an Issue in this repository.
+
+---
+
+## 🇩🇪 Note for German-Speaking Testers
+
+Korpoduell is currently designed for German-speaking student fraternities.  
+If you have feedback, feel free to contact me directly.
