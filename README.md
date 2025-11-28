@@ -45,12 +45,12 @@ Korpoduell uses a hybrid architecture combining REST and WebSockets:
 
 ---
 
-## ⬇️ Download (Test Version)
+## ⬇️ Download
 
-**iOS (TestFlight):**  
+**iOS**  
 *link coming soon*
 
-**Android (Google Play Internal Test):**  
+**Android**  
 *link coming soon*
 
 ---
