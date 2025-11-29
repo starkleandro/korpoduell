@@ -7,6 +7,7 @@ This Privacy Policy explains how Korpoduell (“we”, “us”, “our”) coll
 By using Korpoduell, you agree to the practices described in this policy.
 
 1. Information We Collect
+
 a) Account Information
 
 When you register an account, we collect:
