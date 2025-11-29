@@ -1,6 +1,6 @@
 Privacy Policy for Korpoduell
 
-Last updated: {{29.11.2025}}
+Last updated: 29.11.2025
 
 This Privacy Policy explains how Korpoduell (“we”, “us”, “our”) collects, uses, and protects your information when you use our mobile game.
 
@@ -105,5 +105,5 @@ When we do, the updated version will be published at this URL with a new “Last
 
 If you have questions, concerns, or requests regarding your data, please contact:
 
-{{YOUR NAME}}
-Email: {{YOUR EMAIL}}
+Leandro Stark
+Email: leandrostark@corpoduell.com
