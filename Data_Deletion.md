@@ -8,7 +8,7 @@ How to request data deletion
 
 Send an email to:
 
-leandrostark@corpoduell.com
+kundendienst@corpoduell.com
 
 with the subject:
 
@@ -45,4 +45,4 @@ Contact
 
 If you have any questions, contact:
 
-leandrostark@corpoduell.com
+kundendienst@corpoduell.com
