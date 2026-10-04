@@ -1,4 +1,10 @@
-﻿**Datenschutzerklärung**
+---
+title: Datenschutzerklärung
+post_status: publish
+comment_status: closed
+---
+# Datenschutzerklärung
+ **Datenschutzerklärung**
 
 **für die App „Korpoduell“**
 
