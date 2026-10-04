@@ -1,4 +1,9 @@
-﻿**Allgemeine Geschäftsbedingungen (AGB)\
+---
+title: Allgemeine Geschäftsbedingungen
+post_status: publish
+comment_status: closed
+---
+ **Allgemeine Geschäftsbedingungen (AGB)\
 für die App „Korpoduell“**
 
 *Stand: 12. April 2026*
