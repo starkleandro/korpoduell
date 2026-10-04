@@ -1,3 +1,6 @@
+---
+skip_file: true
+---
 Korpoduell – Data Deletion Request
 
 Last updated: 29.11.2025
