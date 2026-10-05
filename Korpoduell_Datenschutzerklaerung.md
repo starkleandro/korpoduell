@@ -3,249 +3,313 @@ title: Datenschutzerklärung
 post_status: publish
 comment_status: closed
 ---
-# Datenschutzerklärung
- **Datenschutzerklärung**
+# Datenschutzerklärung für die App „Korpoduell“
 
-**für die App „Korpoduell“**
+**Stand: 5. Oktober 2026**
 
-Stand: 12. April 2026
+Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung der App „Korpoduell“ verarbeitet werden, zu welchen Zwecken dies geschieht, auf welchen Rechtsgrundlagen die Verarbeitung beruht und welche Rechte betroffene Personen haben.
 
-|<p>**Diese Datenschutzerklärung richtet sich an Nutzerinnen und Nutzer in Deutschland, Österreich und der Schweiz.**</p><p>Sie beschreibt die Verarbeitung personenbezogener Daten im Zusammenhang mit der Nutzung der App Korpoduell.</p>|
-| :- |
+## 1. Verantwortlicher
 
-Wir freuen uns über Ihr Interesse an unserer App Korpoduell. Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Nachfolgend informieren wir Sie darüber, welche personenbezogenen Daten wir im Zusammenhang mit der Nutzung der App verarbeiten, zu welchen Zwecken dies erfolgt und welche Rechte Ihnen zustehen.
+Verantwortlicher für die Verarbeitung personenbezogener Daten im Zusammenhang mit Korpoduell ist:
 
-Diese Datenschutzerklärung richtet sich an Nutzerinnen und Nutzer in Deutschland, Österreich und der Schweiz.
-
-**1. Verantwortlicher**
-
-Verantwortlich für die Datenverarbeitung im Zusammenhang mit der App Korpoduell ist:
-
-Leandro Stark\
-Karlstraße 3\
-72072 Tübingen\
+Leandro Stark  
+Karlstraße 3  
+72072 Tübingen  
 Deutschland
 
 E-Mail: kundendienst@corpoduell.com
 
-Ein Datenschutzbeauftragter ist nicht bestellt, da hierfür keine gesetzliche Verpflichtung besteht.
+Ein Datenschutzbeauftragter ist nicht bestellt.
 
-**2. Allgemeine Hinweise zum Anwendungsbereich**
+## 2. Allgemeines zur App
 
-Korpoduell ist eine kompetitive Quiz-App für Verbindungsstudenten. Die App bietet insbesondere Profile, Freundeslisten, Ranglisten, Verbindungen/Gilden, In-App-Käufe, Werbung und Events.
+Korpoduell ist eine kompetitive Quiz-App mit spielbezogenen und sozialen Funktionen. Dazu gehören insbesondere Nutzerprofile, Freundeslisten, Ranglisten, Verbindungen bzw. Allianzen, Events, virtuelle Spielwährung, kosmetische digitale Inhalte, In-App-Käufe und werbefinanzierte Funktionen.
 
-Die Nutzung der App ist teilweise ohne Registrierung möglich. Bestimmte Funktionen können jedoch eine Registrierung erfordern.
+Die App kann mit einem registrierten Nutzerkonto oder einem Gastkonto verwendet werden.
 
-Die App richtet sich nicht an Kinder. Die Nutzung ist für Personen ab 16 Jahren vorgesehen.
+Korpoduell ist für Personen ab 16 Jahren vorgesehen.
 
-**3. Welche Daten wir verarbeiten**
+## 3. Verarbeitung bei Nutzerkonten
 
-**3.1 Daten bei Registrierung und Kontoerstellung**
+### 3.1 Registriertes Nutzerkonto
 
-Wenn Sie ein Nutzerkonto erstellen, verarbeiten wir insbesondere folgende Daten:
+Bei der Erstellung und Nutzung eines registrierten Nutzerkontos werden insbesondere folgende Daten verarbeitet:
 
-- E-Mail-Adresse
-- Nickname / Benutzername
+- eine interne Nutzer-ID (UID),
+- E-Mail-Adresse,
+- Benutzername,
+- Kontostatus,
+- Spiel- und Fortschrittsdaten sowie
+- weitere mit dem Nutzerkonto verbundene Daten, soweit diese zur Bereitstellung der jeweils genutzten Funktionen erforderlich sind.
 
-Zusätzlich verwenden wir Ihre E-Mail-Adresse, um die Registrierung per PIN-Verifikation zu bestätigen.
+Die E-Mail-Adresse wird insbesondere zur Erstellung und Verifikation des Kontos mittels Verifikations-PIN sowie für erforderliche kontobezogene Kommunikation verwendet.
 
-**3.2 Daten bei Nutzung ohne Registrierung**
+Die Verarbeitung erfolgt zur Begründung und Durchführung des Nutzungsverhältnisses.
 
-Auch bei einer Nutzung ohne Registrierung können bestimmte technische Daten verarbeitet werden, insbesondere eine Gerätekennung bzw. eine appbezogene Installations- oder Geräte-ID, um die Funktionsfähigkeit und Sicherheit der App zu gewährleisten und die Nutzung technisch zu ermöglichen.
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
 
-**3.3 Nutzungs- und Spieldaten**
+### 3.2 Gastkonto
 
-Bei der Nutzung der App verarbeiten wir Daten, die im Rahmen des Spielbetriebs entstehen, insbesondere:
+Bei der Erstellung eines Gastkontos wird serverseitig eine interne Nutzer-ID (UID) verarbeitet. Diese dient dazu, das Gastkonto technisch bereitzustellen und diesem die innerhalb der App entstehenden Spiel- und Nutzungsdaten zuzuordnen.
 
-- Spielstände
-- Quiz- und Nutzungsfortschritte
-- Zuordnungen zu Freundeslisten
-- Zuordnungen zu Ranglisten
-- Zugehörigkeit zu Verbindungen/Gilden
-- Teilnahme an Events
-- appbezogene Interaktionen
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
 
-**3.4 Technische Daten und Protokolldaten**
+## 4. Spiel-, Profil- und Nutzungsdaten
 
-Bei der Nutzung der App werden automatisch technische Informationen verarbeitet, insbesondere:
+Im Rahmen der Nutzung von Korpoduell können insbesondere folgende Daten verarbeitet werden:
 
-- IP-Adresse
-- Gerätekennung / appbezogene ID
-- Gerätetyp
-- Betriebssystem und Betriebssystemversion
-- App-Version
-- Spracheinstellungen
-- Zeitpunkt von Zugriffen
-- Fehler- und Absturzinformationen
-- Nutzungsereignisse / Eventdaten
-- Server- und Sicherheitslogs
+- Spielstände und Spielfortschritte,
+- Quizfortschritte und Spielergebnisse,
+- Benutzername und Profilinformationen,
+- Freundschaftsbeziehungen,
+- Ranglistenpositionen und Wertungen,
+- Zugehörigkeit zu Verbindungen, Allianzen oder vergleichbaren Gruppierungen,
+- Teilnahme an Events,
+- virtuelle Spielwährung,
+- erworbene oder freigeschaltete kosmetische Inhalte sowie
+- sonstige für die vom Nutzer verwendeten Spielfunktionen erforderliche Interaktionen.
 
-Keine Standortdaten werden nach Ihren Angaben aktiv verarbeitet.
+Diese Daten werden verarbeitet, um die entsprechenden Funktionen von Korpoduell bereitzustellen, Spielstände zu speichern und das Nutzerkonto bzw. Gastkonto zu verwalten.
 
-**4. Zwecke und Rechtsgrundlagen der Verarbeitung**
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
 
-Wir verarbeiten personenbezogene Daten nur, soweit dies rechtlich zulässig ist.
+## 5. Technische Daten, Serverbetrieb und Sicherheit
 
-**4.1 Zur Bereitstellung der App und ihrer Funktionen**
+Bei der Kommunikation zwischen der App und den Servern können technisch erforderliche Daten verarbeitet werden. Hierzu können insbesondere gehören:
 
-Wir verarbeiten Daten, um die App bereitzustellen, Nutzerkonten zu verwalten, Spielstände zu speichern, Ranglisten und soziale Funktionen anzuzeigen sowie In-App-Funktionen technisch umzusetzen.
+- IP-Adresse,
+- Zeitpunkt und Art des Zugriffs,
+- angeforderte Serverressourcen,
+- App-Version,
+- Betriebssystem bzw. technische Geräteinformationen,
+- interne technische Kennungen,
+- Fehlerinformationen sowie
+- Server- und Sicherheitslogs.
 
-|> Rechtsgrundlage: für registrierte Nutzer: Vertragserfüllung bzw. Durchführung vorvertraglicher Maßnahmen; für Gastnutzung und technisch notwendige Verarbeitungen: berechtigtes Interesse an einer funktionsfähigen und sicheren Bereitstellung der App|
-| :- |
+Die Verarbeitung erfolgt, soweit sie zur technischen Bereitstellung von Korpoduell erforderlich ist, auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Soweit Daten darüber hinaus zur Gewährleistung der IT-Sicherheit, zur Fehleranalyse sowie zur Erkennung und Abwehr von Missbrauch oder Angriffen verarbeitet werden, erfolgt die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
-**4.2 Zur IT-Sicherheit und Missbrauchsverhinderung**
+Das berechtigte Interesse besteht in der Gewährleistung eines sicheren, stabilen und missbrauchsfreien Betriebs der App und der zugehörigen IT-Systeme.
 
-Wir verarbeiten technische Daten und Sicherheitslogs, um die Stabilität, Integrität und Sicherheit der App sicherzustellen, Fehler zu erkennen und Missbrauch zu verhindern.
+Für Hosting und Serverbetrieb wird Render eingesetzt. Server- und Sicherheitslogs werden im Rahmen des derzeit eingesetzten Systems grundsätzlich für bis zu 30 Tage aufbewahrt.
 
-|> Rechtsgrundlage: berechtigtes Interesse|
-| :- |
+## 6. Firebase Analytics
 
-**4.3 Zur Analyse und Verbesserung der App**
+Korpoduell verwendet Google Analytics for Firebase („Firebase Analytics“), einen Analysedienst von Google.
 
-Wir nutzen Firebase Analytics, um die Nutzung der App statistisch auszuwerten und die App weiterzuentwickeln. Dabei können insbesondere Informationen über App-Nutzung, Geräteinformationen, technische Kennungen und Eventdaten verarbeitet werden.
+Firebase Analytics dient dazu, die Nutzung der App statistisch auszuwerten, technische und spielbezogene Nutzungsmuster zu verstehen und Korpoduell weiterzuentwickeln.
 
-|> Rechtsgrundlage: berechtigtes Interesse, soweit die eingesetzten Funktionen für die Analyse in datenschutzrechtlich zulässiger Weise betrieben werden; sofern nach anwendbarem Recht eine Einwilligung erforderlich ist, erfolgt die Verarbeitung auf Grundlage Ihrer Einwilligung.|
-| :- |
+Dabei können insbesondere folgende Informationen verarbeitet werden:
 
-**4.4 Zur Anzeige von Werbung**
+- App-Interaktionen und Ereignisse,
+- verwendete Funktionen,
+- technische Geräteinformationen,
+- Betriebssystem und App-Version,
+- technische Kennungen sowie
+- weitere von Firebase Analytics automatisch erhobene oder durch Korpoduell definierte Analyseereignisse.
 
-Wir nutzen Google AdMob zur Einblendung von Werbung. Nach Ihren Angaben werden nicht personalisierte Anzeigen verwendet. Die App kann außerdem Werbefunktionen aus dem Apple-Ökosystem bzw. auf iOS gerätebezogene Infrastruktur nutzen, soweit dies betrieblich erforderlich ist. Eine individualisierte Werbeansprache erfolgt nach Ihren Angaben nicht.
+Firebase Analytics wird für die hier beschriebenen Analysezwecke nur aktiviert, soweit eine hierfür erforderliche Einwilligung erteilt wurde.
 
-|> Rechtsgrundlage: berechtigtes Interesse an der wirtschaftlichen Bereitstellung der App; sofern nach anwendbarem Recht erforderlich: Einwilligung für nicht technisch notwendige Zugriffe oder vergleichbare Technologien|
-| :- |
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO.
 
-**4.5 Für Push-Benachrichtigungen**
+Soweit Firebase Analytics Informationen auf dem Endgerät speichert oder auf dort gespeicherte Informationen zugreift und hierfür eine Einwilligung erforderlich ist, erfolgt dies ebenfalls nur nach vorheriger Einwilligung gemäß den einschlägigen gesetzlichen Anforderungen.
 
-Wenn Sie Push-Benachrichtigungen auf Ihrem Gerät aktivieren, verarbeiten wir die dafür erforderlichen technischen Kennungen bzw. Push-Tokens, um Ihnen Spielebenachrichtigungen zu senden.
+Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft über die innerhalb der App bereitgestellten Datenschutzeinstellungen bzw. den dort erreichbaren Consent-Mechanismus widerrufen oder geändert werden. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
 
-|> Rechtsgrundlage: Einwilligung bzw. Ihre gerätebezogene Freigabe für Benachrichtigungen|
-| :- |
+Anbieter des Dienstes ist Google. Weitere Informationen über die Datenverarbeitung durch Google können den Datenschutzinformationen von Google entnommen werden.
 
-**4.6 Für Support und Kontaktanfragen**
+## 7. Werbung mit Google AdMob
 
-Wenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, verarbeiten wir Ihre Angaben zur Bearbeitung Ihrer Anfrage.
+Korpoduell verwendet Google AdMob zur Einblendung von Werbung.
 
-|> Rechtsgrundlage: Vertragserfüllung bzw. Durchführung vorvertraglicher Maßnahmen, sofern Ihre Anfrage darauf gerichtet ist; im Übrigen berechtigtes Interesse an der Bearbeitung von Nutzeranfragen|
-| :- |
+Es werden keine auf dem früheren Nutzerverhalten basierenden personalisierten Anzeigen durch Korpoduell angefordert. Es können nicht personalisierte bzw. kontextbezogene Anzeigen angezeigt werden.
 
-**5. Registrierung, Verifikation und Kommunikation per E-Mail**
+Auch bei nicht personalisierten Anzeigen können durch Google technische Informationen verarbeitet und Cookies, mobile Kennungen oder vergleichbare Technologien insbesondere für Zwecke wie Frequency Capping, Betrugs- und Missbrauchsbekämpfung sowie aggregierte Anzeigenberichte verwendet werden. Zur Auswahl kontextbezogener Anzeigen können außerdem Kontextinformationen einschließlich einer ungefähren geografischen Zuordnung verwendet werden.
 
-Für registrierte Nutzer verwenden wir die angegebene E-Mail-Adresse insbesondere zur Verifikation des Kontos mittels PIN, zur Bearbeitung von Supportanfragen und zur Kommunikation im Zusammenhang mit Ihrem Nutzerkonto, soweit erforderlich.
+Korpoduell greift hierfür nicht auf den präzisen GPS-Standort des Geräts zu.
 
-Hierfür nutzen wir nach Ihren Angaben Zoho Mail.
+Soweit für die Speicherung von Informationen auf dem Endgerät, den Zugriff auf Informationen des Endgeräts oder eine damit verbundene Verarbeitung eine Einwilligung erforderlich ist, werden entsprechende Vorgänge erst nach Maßgabe der über den eingesetzten Consent-Mechanismus getroffenen Entscheidung durchgeführt.
 
-**6. In-App-Käufe**
+**Rechtsgrundlage für einwilligungsbedürftige Verarbeitungen:** Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit den einschlägigen Vorschriften über den Zugriff auf Endeinrichtungen.
 
-Die App bietet In-App-Käufe an. Zahlungen werden über die jeweiligen Plattformbetreiber abgewickelt, insbesondere:
+Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft über die innerhalb der App bereitgestellten Datenschutzeinstellungen bzw. den dort erreichbaren Consent-Mechanismus geändert oder widerrufen werden.
 
-- Google Play Store
-- Apple App Store
+Die App kann insbesondere freiwillige Werbeanzeigen anbieten, bei denen Nutzer nach dem Ansehen einer Anzeige eine spielinterne Belohnung erhalten. Auch für diese Anzeigen gelten die vorstehenden Datenschutzinformationen.
 
-Die eigentliche Zahlungsabwicklung erfolgt über die jeweiligen Plattformen. Wir erhalten dabei in der Regel nicht sämtliche Zahlungsdaten selbst, sondern nur die Informationen, die zur Zuordnung und Durchführung des Kaufs erforderlich sind.
+Anbieter des Werbedienstes ist Google.
 
-|> Rechtsgrundlage: Vertragserfüllung|
-| :- |
+## 8. Push-Benachrichtigungen
 
-Es gelten ergänzend die Datenschutzbestimmungen der jeweiligen Plattformbetreiber.
+Korpoduell kann Push-Benachrichtigungen versenden, beispielsweise zu spielbezogenen Ereignissen und Events.
 
-**7. Verwendete Dienste und Empfänger**
+Push-Benachrichtigungen werden nur verwendet, wenn der Nutzer die hierfür erforderliche Berechtigung auf seinem Gerät erteilt hat.
 
-Zur Bereitstellung der App setzen wir externe Dienstleister ein. Diese verarbeiten Daten teilweise in unserem Auftrag oder als eigenständig Verantwortliche, je nach Dienst und datenschutzrechtlicher Rolle.
+Zur technischen Zustellung werden insbesondere Push-Tokens verarbeitet. Korpoduell verwendet hierfür Expo Push Notifications. Expo leitet Push-Benachrichtigungen an die jeweiligen Push-Dienste des Betriebssystems, insbesondere Apple Push Notification Service (APNs) bzw. Firebase Cloud Messaging (FCM), weiter.
 
-**7.1 Render**
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO, soweit die Verarbeitung auf einer Einwilligung beruht.
 
-Für Hosting und Serverbetrieb nutzen wir Render. Nach Ihren Angaben werden die relevanten Dienste in der Region Frankfurt, Deutschland betrieben.
+Die Berechtigung für Push-Benachrichtigungen kann jederzeit über die Einstellungen des jeweiligen Betriebssystems widerrufen werden.
 
-**7.2 Firebase / Google**
+## 9. E-Mail-Verifikation und Support
 
-Wir nutzen Firebase Analytics von Google zur statistischen Auswertung und Verbesserung der App.
+Für E-Mail-Kommunikation verwendet Korpoduell Zoho Mail.
 
-**7.3 Google AdMob**
+Die bei der Registrierung angegebene E-Mail-Adresse wird insbesondere verwendet, um den für die Verifikation des Nutzerkontos erforderlichen PIN bzw. vergleichbare kontobezogene Nachrichten zu versenden.
 
-Zur Finanzierung der App nutzen wir Google AdMob für die Anzeige von nicht personalisierter Werbung.
+Wenn Nutzer Korpoduell per E-Mail oder über eine innerhalb der App angebotene Kontaktmöglichkeit kontaktieren, werden die dabei übermittelten Daten zur Bearbeitung der Anfrage verarbeitet.
 
-**7.4 Expo Push**
+Die E-Mail-Adresse wird nicht für den Versand von Werbe-Newslettern verwendet.
 
-Für Push-Benachrichtigungen nutzen wir Expo Push Notifications. Hierbei können insbesondere Push-Tokens verarbeitet werden.
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO, soweit die Kommunikation der Begründung, Durchführung oder Verwaltung des Nutzungsverhältnisses dient. Bei sonstigen Anfragen erfolgt die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Das berechtigte Interesse besteht in der Bearbeitung und Dokumentation von Nutzeranfragen.
 
-**7.5 Zoho Mail**
+## 10. In-App-Käufe
 
-Für Support-Kommunikation, Kontaktformular und E-Mail-Verifikation nutzen wir Zoho Mail.
+Korpoduell bietet entgeltliche digitale Inhalte als In-App-Käufe an. Dazu können insbesondere virtuelle Spielwährung und kosmetische digitale Inhalte gehören.
 
-**8. Cookies und vergleichbare Technologien**
+Die Zahlungsabwicklung erfolgt ausschließlich über den jeweiligen Plattformbetreiber:
 
-In der App können Cookies und vergleichbare Technologien, insbesondere SDKs, lokale Speichertechnologien, Gerätekennungen und ähnliche technische Identifikatoren, eingesetzt werden.
+- Apple App Store oder
+- Google Play Store.
 
-Diese dienen insbesondere folgenden Zwecken:
+Zahlungsdaten wie Kreditkarten- oder Bankdaten werden von Korpoduell nicht selbst verarbeitet, soweit diese ausschließlich im Rahmen der Zahlungsabwicklung beim jeweiligen Plattformbetreiber anfallen.
 
-- technische Bereitstellung der App
-- Speicherung von Einstellungen
-- Sicherheit und Stabilität
-- Reichweitenmessung und Analyse
-- Einblendung von Werbung
+Korpoduell bzw. das zugehörige Backend verarbeitet nur die für die technische Validierung, Zuordnung und Bereitstellung eines Kaufs erforderlichen Kauf-, Produkt- und Transaktionsinformationen.
 
-Soweit solche Technologien technisch erforderlich sind, erfolgt ihr Einsatz zur Bereitstellung der App und zur Wahrung unserer berechtigten Interessen. Soweit nach dem jeweils anwendbaren Recht eine Einwilligung erforderlich ist, erfolgt der Einsatz nur auf Grundlage Ihrer Einwilligung.
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO.
 
-**9. Keine Pflicht zur Bereitstellung, aber mögliche Folgen**
+Soweit Zahlungs- oder Transaktionsinformationen durch Apple oder Google in eigener Verantwortlichkeit verarbeitet werden, gelten ergänzend deren jeweilige Datenschutzinformationen und Bedingungen.
 
-Die Bereitstellung personenbezogener Daten ist grundsätzlich weder gesetzlich noch vertraglich vorgeschrieben. Bestimmte Daten sind jedoch erforderlich, um registrierte Funktionen, Push-Benachrichtigungen, In-App-Käufe oder Supportleistungen bereitzustellen. Ohne diese Daten können einzelne Funktionen ganz oder teilweise nicht genutzt werden.
+## 11. Speicherung auf dem Endgerät und Zugriff auf Geräteinformationen
 
-**10. Speicherdauer**
+Für den technischen Betrieb von Korpoduell können Informationen lokal auf dem Gerät gespeichert oder aus dem Gerät ausgelesen werden, soweit dies für vom Nutzer ausdrücklich gewünschte Funktionen technisch erforderlich ist.
 
-Wir speichern personenbezogene Daten grundsätzlich nur so lange, wie dies für die jeweiligen Zwecke erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen.
+Darüber hinaus können insbesondere Firebase Analytics und Google AdMob Technologien verwenden, die Informationen auf dem Gerät speichern oder auf dort gespeicherte Informationen zugreifen.
 
-Nach Ihren Angaben gilt derzeit Folgendes:
+Soweit eine solche Speicherung oder ein solcher Zugriff nicht unbedingt erforderlich ist und hierfür nach den anwendbaren gesetzlichen Vorschriften eine Einwilligung erforderlich ist, erfolgt die Verarbeitung nur nach einer entsprechenden Einwilligungsentscheidung.
 
-- Konto- und Registrierungsdaten werden gespeichert, bis eine Löschung verlangt wird.
-- Spiel- und Profildaten werden gespeichert, solange dies für den Betrieb des Nutzerkontos erforderlich ist bzw. bis eine Löschung verlangt wird.
-- E-Mail-Adresse und Benutzername werden bei Accountlöschung gelöscht.
-- Server- und Sicherheitslogs können auch nach einer Accountlöschung weiter gespeichert bleiben, soweit dies zur Aufrechterhaltung der Sicherheit, zur Missbrauchsabwehr oder zur technischen Dokumentation erforderlich ist.
-- Supportanfragen werden so lange gespeichert, wie dies zur Bearbeitung und Dokumentation des Vorgangs erforderlich ist.
-- Zahlungsbezogene Informationen werden im Wesentlichen durch die jeweiligen Plattformbetreiber verarbeitet; soweit bei uns Nachweise oder Zuordnungsdaten anfallen, speichern wir diese nur im erforderlichen Umfang.
+Die bloße Zustimmung zu den Allgemeinen Geschäftsbedingungen oder die bloße Kenntnisnahme dieser Datenschutzerklärung stellt keine solche Einwilligung dar.
 
-**11. Löschung des Kontos**
+## 12. Empfänger und eingesetzte Dienstleister
 
-Eine Selbstlöschfunktion in der App besteht derzeit nicht.
+Zur Bereitstellung von Korpoduell werden insbesondere folgende externe Anbieter bzw. Kategorien von Empfängern eingesetzt:
 
-Sie können jedoch jederzeit die Löschung Ihres Kontos und Ihrer personenbezogenen Daten im zulässigen Umfang über folgende E-Mail-Adresse verlangen: kundendienst@corpoduell.com
+**Render**  
+Hosting und Serverbetrieb; hierbei können insbesondere technische Verbindungs-, Server- und Sicherheitsdaten verarbeitet werden.
 
-Bei einer Löschung werden insbesondere E-Mail-Adresse und Benutzername entfernt. Server- und Sicherheitslogs können im erforderlichen Umfang weiter gespeichert bleiben.
+**Google / Firebase Analytics**  
+Analyse der App-Nutzung, soweit hierfür eine erforderliche Einwilligung vorliegt.
 
-**12. Weitergabe von Daten**
+**Google AdMob**  
+Bereitstellung von Werbung und damit zusammenhängende technische Verarbeitung.
 
-Eine Weitergabe personenbezogener Daten an sonstige Dritte zu eigenen Zwecken erfolgt nicht, es sei denn, dies ist für die Bereitstellung der App erforderlich, wir setzen Dienstleister ein, wir sind gesetzlich dazu verpflichtet oder Sie haben eingewilligt.
+**Expo Push Notifications**  
+Technische Übermittlung von Push-Benachrichtigungen und Verarbeitung der hierfür erforderlichen Push-Tokens.
 
-**13. Datenverarbeitung in Drittländern**
+**Apple und Google**  
+Bereitstellung der App über die jeweiligen App Stores, Abwicklung von In-App-Käufen sowie Bereitstellung der jeweiligen Push-Infrastruktur, soweit einschlägig.
 
-Auch wenn Teile der eigenen Infrastruktur in Frankfurt gehostet werden, lässt sich bei den eingesetzten Drittanbieterdiensten nicht sicher ausschließen, dass personenbezogene Daten auch in Staaten außerhalb der EU bzw. des EWR oder der Schweiz verarbeitet oder dorthin übermittelt werden. Soweit solche Übermittlungen stattfinden, achten wir darauf, dass sie nur auf Grundlage der jeweils geltenden datenschutzrechtlichen Anforderungen erfolgen, etwa auf Basis eines Angemessenheitsbeschlusses, vertraglicher Schutzmechanismen oder anderer zulässiger Garantien.
+**Zoho Mail**  
+E-Mail-Verifikation, kontobezogene Kommunikation und Support.
 
-**14. Rechte der betroffenen Personen**
+Je nach konkreter Verarbeitung handeln Dienstleister als Auftragsverarbeiter oder als eigenständig Verantwortliche.
 
-Sofern die jeweiligen gesetzlichen Voraussetzungen vorliegen, haben Sie folgende Rechte:
+Eine Weitergabe personenbezogener Daten an andere Empfänger erfolgt nur, soweit dies zur Vertragserfüllung erforderlich ist, eine gesetzliche Verpflichtung besteht, eine entsprechende Einwilligung vorliegt oder eine andere gesetzliche Rechtsgrundlage die Übermittlung erlaubt.
 
-- Recht auf Auskunft über die Sie betreffenden personenbezogenen Daten
-- Recht auf Berichtigung unrichtiger Daten
-- Recht auf Löschung
-- Recht auf Einschränkung der Verarbeitung
-- Recht auf Datenübertragbarkeit
-- Recht auf Widerspruch gegen Verarbeitungen, die auf berechtigten Interessen beruhen
-- Recht, erteilte Einwilligungen jederzeit mit Wirkung für die Zukunft zu widerrufen
+## 13. Datenübermittlungen in Drittländer
 
-Zur Ausübung Ihrer Rechte genügt eine Nachricht an: kundendienst@corpoduell.com
+Bei einzelnen eingesetzten Dienstleistern kann eine Verarbeitung personenbezogener Daten auch außerhalb der Europäischen Union bzw. des Europäischen Wirtschaftsraums stattfinden.
 
-**15. Beschwerderecht bei einer Aufsichtsbehörde**
+Dies betrifft insbesondere international tätige Anbieter wie Google, Expo oder Zoho, soweit Daten im Rahmen der jeweiligen Dienste außerhalb der EU bzw. des EWR verarbeitet werden.
 
-Sie haben das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten rechtswidrig erfolgt.
+Eine Übermittlung in ein Drittland erfolgt nur unter Beachtung der gesetzlichen Voraussetzungen der Art. 44 ff. DSGVO. Je nach Empfänger und Verarbeitungsort kann die Übermittlung insbesondere auf einem Angemessenheitsbeschluss der Europäischen Kommission oder auf geeigneten Garantien wie den von der Europäischen Kommission genehmigten Standardvertragsklauseln beruhen.
 
-**16. Keine automatisierten Entscheidungen im Einzelfall**
+Soweit ein Anbieter für eine konkrete Übermittlung auf einen geltenden Angemessenheitsbeschluss gestützt werden kann, kann die Übermittlung auf dieser Grundlage erfolgen.
 
-Eine automatisierte Entscheidungsfindung einschließlich Profiling mit rechtlicher oder ähnlich erheblicher Wirkung findet nicht statt.
+Weitere Informationen zu den konkret eingesetzten Übermittlungsmechanismen können auf Anfrage unter kundendienst@corpoduell.com bereitgestellt werden.
 
-**17. Minderjährige**
+## 14. Speicherdauer
 
-Die App richtet sich nicht an Kinder. Die Nutzung ist für Personen ab 16 Jahren vorgesehen. Eine bewusste Ansprache von Kindern erfolgt nicht.
+Personenbezogene Daten werden grundsätzlich nur so lange gespeichert, wie dies für den jeweiligen Verarbeitungszweck erforderlich ist oder eine gesetzliche Verpflichtung zur weiteren Speicherung besteht.
 
-**18. Änderungen dieser Datenschutzerklärung**
+Für Korpoduell gelten insbesondere folgende Grundsätze:
 
-Wir behalten uns vor, diese Datenschutzerklärung anzupassen, wenn dies aufgrund technischer, rechtlicher oder organisatorischer Änderungen erforderlich wird. Es gilt jeweils die in der App veröffentlichte Fassung.
-Korpoduell – Datenschutzerklärung
+- Konto-, Profil-, Spiel- und Fortschrittsdaten werden grundsätzlich für die Dauer des jeweiligen Nutzerkontos gespeichert.
+- Daten eines Gastkontos werden grundsätzlich für die Dauer des Gastkontos gespeichert.
+- Bei einer endgültigen Kontolöschung werden die mit dem Konto gespeicherten personenbezogenen Konto- und Spieldaten gelöscht, soweit keine gesetzliche Verpflichtung oder sonstige zulässige Rechtsgrundlage für eine weitere Aufbewahrung besteht.
+- Server- und Sicherheitslogs werden grundsätzlich für bis zu 30 Tage gespeichert.
+- Support-Kommunikation wird so lange gespeichert, wie dies für die Bearbeitung und gegebenenfalls erforderliche Dokumentation des jeweiligen Vorgangs erforderlich ist.
+- Für Push-Benachrichtigungen gespeicherte Zuordnungen bzw. Push-Tokens werden nicht länger verwendet, sobald sie für das betreffende Nutzerkonto nicht mehr erforderlich sind oder bekannt wird, dass ein Token nicht mehr gültig ist.
+- Kaufbezogene Daten werden von Korpoduell nur im erforderlichen Umfang und für den für Validierung, Zuordnung, Bereitstellung sowie gegebenenfalls erforderliche Nachweise notwendigen Zeitraum verarbeitet. Für Daten, die Apple oder Google in eigener Verantwortlichkeit speichern, gelten deren jeweilige Aufbewahrungsregeln.
+
+Gesetzliche Aufbewahrungspflichten bleiben unberührt.
+
+## 15. Kontolöschung
+
+Nutzer können ihr Konto über die auf dem Titelbildschirm der App bereitgestellte Funktion „Konto löschen“ löschen.
+
+Die Löschung wird unmittelbar für das betreffende Korpoduell-Konto durchgeführt. Dabei werden die bei Korpoduell mit dem Konto verbundenen personenbezogenen Konto-, Profil- und Spieldaten gelöscht, soweit keine gesetzliche Verpflichtung oder sonstige gesetzliche Rechtsgrundlage eine weitere Speicherung erfordert.
+
+Die Löschung des Korpoduell-Kontos bewirkt nicht die Löschung von Kauf- und Zahlungsdaten, die Apple oder Google in eigener Verantwortlichkeit im Zusammenhang mit über deren Plattformen abgewickelten Käufen gespeichert haben.
+
+Eine Anfrage zur Löschung oder zu datenschutzrechtlichen Rechten kann außerdem an kundendienst@corpoduell.com gerichtet werden.
+
+## 16. Bereitstellung personenbezogener Daten
+
+Die Bereitstellung bestimmter personenbezogener Daten ist erforderlich, wenn der Nutzer die entsprechende Funktion verwenden möchte.
+
+Insbesondere ist für ein registriertes Nutzerkonto die Bereitstellung der hierfür erforderlichen Registrierungsdaten notwendig. Ohne diese Daten kann kein registriertes Konto eingerichtet werden.
+
+Für ein Gastkonto ist insbesondere die Verarbeitung einer internen UID erforderlich.
+
+Die Nutzung von Firebase Analytics für Analysezwecke ist für die Nutzung der grundlegenden Funktionen von Korpoduell nicht erforderlich. Eine verweigerte oder widerrufene Einwilligung in entsprechende Analyseverarbeitungen darf daher nicht dazu führen, dass die grundlegende Nutzung der App ausgeschlossen wird.
+
+Für Push-Benachrichtigungen ist die entsprechende Geräteberechtigung erforderlich. Ohne diese Berechtigung können Push-Benachrichtigungen nicht zugestellt werden; die übrige Nutzung der App bleibt davon unberührt.
+
+## 17. Rechte betroffener Personen
+
+Betroffene Personen haben nach Maßgabe der gesetzlichen Voraussetzungen insbesondere folgende Rechte:
+
+- Recht auf Auskunft nach Art. 15 DSGVO,
+- Recht auf Berichtigung nach Art. 16 DSGVO,
+- Recht auf Löschung nach Art. 17 DSGVO,
+- Recht auf Einschränkung der Verarbeitung nach Art. 18 DSGVO,
+- Recht auf Datenübertragbarkeit nach Art. 20 DSGVO sowie
+- Recht auf Widerspruch gegen bestimmte Verarbeitungen nach Art. 21 DSGVO.
+
+Soweit eine Verarbeitung auf einer Einwilligung beruht, kann die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen werden. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt.
+
+Zur Ausübung der Rechte genügt eine Nachricht an:
+
+kundendienst@corpoduell.com
+
+## 18. Widerspruchsrecht
+
+Soweit personenbezogene Daten auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO verarbeitet werden, besteht nach Maßgabe von Art. 21 DSGVO das Recht, aus Gründen, die sich aus der besonderen Situation der betroffenen Person ergeben, jederzeit Widerspruch gegen die Verarbeitung einzulegen.
+
+Im Falle eines wirksamen Widerspruchs werden die betreffenden personenbezogenen Daten nicht mehr auf dieser Grundlage verarbeitet, es sei denn, es bestehen zwingende schutzwürdige Gründe für die Verarbeitung, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+
+## 19. Beschwerderecht bei einer Aufsichtsbehörde
+
+Betroffene Personen haben gemäß Art. 77 DSGVO das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten gegen die DSGVO verstößt.
+
+Dieses Recht besteht insbesondere bei einer Aufsichtsbehörde in dem Mitgliedstaat des gewöhnlichen Aufenthaltsorts, des Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes.
+
+## 20. Automatisierte Entscheidungsfindung
+
+Eine ausschließlich automatisierte Entscheidungsfindung einschließlich Profiling im Sinne von Art. 22 DSGVO, die gegenüber dem Nutzer rechtliche Wirkung entfaltet oder ihn in ähnlicher Weise erheblich beeinträchtigt, findet bei Korpoduell nicht statt.
+
+## 21. Minderjährige
+
+Korpoduell ist für Personen ab 16 Jahren vorgesehen.
+
+Personen unter 16 Jahren dürfen kein Nutzerkonto oder Gastkonto für Korpoduell erstellen.
+
+## 22. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann angepasst werden, wenn sich die tatsächliche Datenverarbeitung, die eingesetzten Dienste oder die rechtlichen Anforderungen ändern.
+
+Bei wesentlichen Änderungen, die für Nutzer von Bedeutung sind, werden Nutzer in angemessener Weise über die Änderung informiert.
+
+Es gilt die jeweils aktuelle Fassung der Datenschutzerklärung.
+
+*Korpoduell – Datenschutzerklärung*
